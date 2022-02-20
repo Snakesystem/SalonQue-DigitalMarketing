@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container .badan {
+    margin: 50px;
+    padding: 20px
+}
+
+.container h4 {
+    font-size: 50px;
+    margin: 40px 0;
+    text-transform: uppercase;
+}
+
+.container h5 {
+    margin-top: 20px;
+}
+
+.container .tulisan {
+    margin-left: 20px;
+}
